@@ -1,8 +1,31 @@
 {
   "name": "@darkhorse-coder/react-native-typescript",
   "version": "1.0.0",
-  "description": "React Native Template",
-  "repository": "https://github.com/darkhorse-coder/react-native-typescript.git",
-  "author": "Dima <darkhorse.coder@gmail.com>",
-  "license": "MIT"
+  "description": "React Native TS Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkhorse-coder/react-native-typescript.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "alias",
+    "react-navigation",
+    "template",
+    "boilerplate",
+    "env",
+    "custom-fonts",
+    "svg"
+  ],
+  "author": "Dark Horse <darkhorse.coder@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkhorse-coder/react-native-typescript/issues"
+  },
+  "homepage": "https://github.com/darkhorse-coder/react-native-typescript#readme"
 }
