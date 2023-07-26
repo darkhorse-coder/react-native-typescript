@@ -1,11 +1,8 @@
 {
-  "name": "@darkhors-coder/react-native-typescript",
-  "version": "0.0.1",
+  "name": "@darkhorse-coder/react-native-typescript",
+  "version": "1.0.0",
   "description": "React Native Template",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:darkhorse-coder/react-native-typescript.git"
-  },
+  "repository": "https://github.com/darkhorse-coder/react-native-typescript.git",
   "author": "Dima <darkhorse.coder@gmail.com>",
   "license": "MIT"
 }
